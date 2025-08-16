@@ -21,6 +21,9 @@
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [Authors](#-authors)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+- [Contact & Support](#-contact--support)
 
 ## 🎯 Overview
 
@@ -64,7 +67,7 @@ pip package manager
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/medical-ml-diagnosis.git
+   git clone https://github.com/Mohit-Balachander/medical-ml-diagnosis.git
    cd medical-ml-diagnosis
    ```
 
@@ -261,6 +264,10 @@ This project is based on our research paper:
 
 - **Mohit Balachander** - _Lead Researcher_ - [Mohit-Balachander](https://github.com/Mohit-Balachander)
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) – feel free to use, modify, and distribute this software with proper attribution.
+
 ## 🙏 Acknowledgments
 
 - UCI Machine Learning Repository for providing datasets
@@ -272,7 +279,7 @@ This project is based on our research paper:
 
 - **Email**: mohitbalachander@gmail.com
 - **LinkedIn**: [Mohit Balachander](https://www.linkedin.com/in/mohit-balachander/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/medical-ml-diagnosis/issues)
+- **Issues**: [GitHub Issues](https://github.com/Mohit-Balachander/medical-ml-diagnosis/issues)
 
 ---
 
