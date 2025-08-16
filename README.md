@@ -211,9 +211,9 @@ Choose between conventional ("old") and advanced ("new") algorithms using the si
 
 ### Dashboard Overview
 
-![Diabetes Dashboard](/diabetes_prediction.jpg)
-![Heart Dashboard](/heart_disease_prediction.jpg)
-![Parkinsons Dashboard](/parkinsons_prediction.jpg)
+![Diabetes Dashboard](/Images/diabetes_prediction.jpg)
+![Heart Dashboard](/Images/heart_disease_prediction.jpg)
+![Parkinsons Dashboard](/Images/parkinsons_prediction.jpg)
 
 ### Model Comparison
 
