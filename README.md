@@ -20,7 +20,6 @@
 - [Key Findings](#-key-findings)
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Authors](#-authors)
 
 ## 🎯 Overview
@@ -212,15 +211,16 @@ Choose between conventional ("old") and advanced ("new") algorithms using the si
 
 ### Dashboard Overview
 
-![Dashboard](docs/images/dashboard.png)
+![Diabetes Dashboard](/diabetes_prediction.jpg)
+![Heart Dashboard](/heart_disease_prediction.jpg)
+![Parkinsons Dashboard](/parkinsons_prediction.jpg)
 
 ### Model Comparison
 
-![Comparison](docs/images/model_comparison.png)
-
-### Prediction Interface
-
-![Prediction](docs/images/prediction_interface.png)
+![Accuracy Comparison](/Images/Accuracy_Comparison.png)
+![F1 Score Comparison](/Images/F1%20Score%20Comparison.png)
+![Precision Comparison](/Images/Precision_Comparison.png)
+![Recall Comparison](/Images/Recall_Comparison.png)
 
 ## 🤝 Contributing
 
@@ -248,17 +248,14 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Ensure all tests pass
 
-## 🔬 Research Paper
+<!-- ## 🔬 Research Paper
 
 This project is based on our research paper:
 
 > "Comparative Analysis of Conventional versus Advanced Machine Learning Algorithms for Multi-Disease Prediction"
 
 **Abstract**: Medical diagnosis represents a critical domain where accurate prediction models can significantly impact patient outcomes and healthcare delivery efficiency...
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+-->
 
 ## 👥 Authors
 
@@ -276,17 +273,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: mohitbalachander@gmail.com
 - **LinkedIn**: [Mohit Balachander](https://www.linkedin.com/in/mohit-balachander/)
 - **Issues**: [GitHub Issues](https://github.com/yourusername/medical-ml-diagnosis/issues)
-
----
-
-<div align="center">
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/medical-ml-diagnosis.svg?style=social&label=Star)](https://github.com/yourusername/medical-ml-diagnosis)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/medical-ml-diagnosis.svg?style=social&label=Fork)](https://github.com/yourusername/medical-ml-diagnosis)
-
-</div>
 
 ---
 
