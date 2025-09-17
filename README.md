@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Medical Multi-Disease Prediction: A Comparative Analysis
+=======
+# 🏥 Multiple Disease Prediction System
+>>>>>>> a59f40b219103ce57cdb8c0750a06f8c1868e9ba
 
 [](https://www.python.org/downloads/) [](https://streamlit.io/) [](https://opensource.org/licenses/MIT)
 
