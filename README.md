@@ -1,4 +1,4 @@
-# Medical Multi-Disease Prediction System
+# Disease Prediction: A Comparative Analysis of Conventional and Advanced Approaches
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
